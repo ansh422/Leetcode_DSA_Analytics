@@ -3,7 +3,7 @@ A python script that would generate a html report based on programming questions
 
 ## Working with it
 
-* Install the dependencies by `pip install -r requirements` in commandline/ terminal.
+* Install the dependencies by `pip install -r requirements`.
 * Run the code `python leetcode.py`and enter your username.
 * Get your report.
 
