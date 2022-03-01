@@ -1,4 +1,4 @@
-# Leetcode_DSA_Analysis
+# Leetcode_DSA_Analytics
 A python script that would generate a html report based on programming questions done on Leetcode. 
 
 ## Working with it
