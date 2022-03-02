@@ -3,9 +3,11 @@ A python script that would generate a html report based on programming questions
 
 ## Working with it
 
-* Install the dependencies by `pip install -r requirements`.
-* Run the code `python leetcode.py`and enter your username.
-* Get your report.
+https://leetcode-dsa-analytics.herokuapp.com/
+
+* Click the link
+* Enter your Username
+* Get the result.
 
 ## Report Output
 
